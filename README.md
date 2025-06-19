@@ -3,20 +3,14 @@
 A comprehensive real-time face recognition and object detection application with a modern GUI interface. This system combines YOLO object detection with face recognition capabilities for security, surveillance, and identification purposes.
 
 ## 📸 Overview
-
-
 ### Application Interface
-
-
-### Real-time Face Recognition
-
-
+[Interface](demo/Interface.png)
 
 ### Image Object Detection Results
-
-
+[Result](demo/image-result.png)
 
 ### Video Processing Demo
+[Video](demo/final_output.mp4)
 
 ## 🌟 Features
 
