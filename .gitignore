@@ -48,11 +48,6 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# Node.js (not needed for Python but exclude if accidentally created)
-node_modules/
-package-lock.json
-yarn.lock
-
 # Project specific
 known_faces_encodings.pkl
 models/
