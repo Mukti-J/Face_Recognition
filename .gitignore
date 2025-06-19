@@ -48,6 +48,11 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
+# Node.js (not needed for Python but exclude if accidentally created)
+node_modules/
+package-lock.json
+yarn.lock
+
 # Project specific
 known_faces_encodings.pkl
 models/
@@ -62,11 +67,6 @@ Input/
 # Database
 *.db
 *.sqlite3
-
-# Media files (optional - uncomment if you don't want to track them)
-# *.jpg
-# *.jpeg
-# *.png
 # *.mp4
 # *.avi
 # *.mov
