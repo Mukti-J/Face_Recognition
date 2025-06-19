@@ -4,7 +4,7 @@ A comprehensive real-time face recognition and object detection application with
 
 ## 📸 Overview
 ### Application Interface
-[Interface](demo/Interface.png)
+![Interface](demo/Interface.png)
 
 ### Image Object Detection Results
 [Result](demo/image-result.png)
