@@ -50,7 +50,6 @@ Thumbs.db
 
 # Project specific
 known_faces_encodings.pkl
-models/
 Output/
 Input/
 *.tmp
