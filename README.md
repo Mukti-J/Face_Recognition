@@ -7,10 +7,10 @@ A comprehensive real-time face recognition and object detection application with
 ![Interface](demo/Interface.png)
 
 ### Image Object Detection Results
-[Result](demo/image-result.png)
+![Result](demo/image-result.png)
 
 ### Video Processing Demo
-[Video](demo/final_output.mp4)
+![Video](demo/final_output.mp4)
 
 ## 🌟 Features
 
